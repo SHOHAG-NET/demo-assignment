@@ -49,7 +49,14 @@ body {
   font-style: normal;
   font-weight: 900;
   line-height: 95px; /* 131.944% */
-  text-align: center;
+}
+.banner-content p span {
+  color: #fff;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 95px; /* 131.944% */
 }
 
 /* banner style ends here */
