@@ -35,6 +35,10 @@ body {
   height: 600px;
 }
 
+.header-content-line-break {
+  line-break: inherit;
+}
+
 .banner-content h1 {
   color: #fff;
   font-family: Merriweather;
@@ -52,12 +56,3 @@ body {
   font-weight: 900;
   line-height: 95px; /* 131.944% */
 }
-
-/* banner style ends here */
-
-/* offer section starts here  */
-.offer-section-container {
-  width: ;
-  border: 2px solid blueviolet;
-}
-/* offer section ends here  */

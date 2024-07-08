@@ -12,19 +12,14 @@ body {
 
 /* banner style starts here */
 .banner-container {
-  max-width: 1320px;
+  width: 1320px;
   min-height: 600px;
   border: 2px solid blueviolet;
-  border-radius: 16px;
-
   margin: 0 auto;
   margin-top: 50px;
   background-image: url(.//images/Banner\ Image.png);
-  background-color: rgba(0, 0, 0, 0.8);
   background-position: center;
   background-repeat: no-repeat;
-
-  background-blend-mode: overlay;
 }
 
 .banner-content {
@@ -33,6 +28,9 @@ body {
   justify-content: center;
   align-items: center;
   height: 600px;
+}
+
+.header-content-line-break {
 }
 
 .banner-content h1 {
@@ -52,12 +50,3 @@ body {
   font-weight: 900;
   line-height: 95px; /* 131.944% */
 }
-
-/* banner style ends here */
-
-/* offer section starts here  */
-.offer-section-container {
-  width: ;
-  border: 2px solid blueviolet;
-}
-/* offer section ends here  */
